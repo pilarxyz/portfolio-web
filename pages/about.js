@@ -18,17 +18,21 @@ export default function About() {
               <div className="container lg:w-3/5 w-11/12 mx-auto mt-4">
                 <div className="text-justify space-y-6 text-lg font-medium text-gray-200">
                   <p>
-                    Hello there! I'm
-                    <b>Pilar Rangga Saputra</b>, a budding Computer Science whiz
-                    studying at Sebelas Maret University and making strides as a
-                    Junior Web Developer. Armed with creativity and
-                    tech-savviness, I delight in crafting interactive websites
-                    and staying on top of the latest industry trends. When I'm
-                    not coding or studying, you can find me immersed in
-                    thrilling video games or wandering off to explore unseen
-                    paths. Eagerly embracing opportunities to learn and grow,
-                    I'm ready to shape the digital world. Let's embark on this
-                    exciting journey together!
+                    Hello there! I'm <strong>Pilar Rangga Saputra</strong>, a budding
+                    Computer Science whiz currently honing my skills at Sebelas
+                    Maret University. I'm pursuing my passion as a Junior Web
+                    Developer, where my creativity and tech-savviness allow me
+                    to craft interactive websites that stand out. Staying on top
+                    of the latest industry trends is a challenge I eagerly
+                    embrace.
+                  </p>
+                  <p>
+                    When I'm not immersed in coding or advancing my studies, I
+                    enjoy spending time in the thrilling world of video games
+                    and exploring unseen paths in the real world. As someone who
+                    is always open to learning and growing, I'm prepared and
+                    excited to leave my mark in the digital world. Let's embark
+                    on this exciting journey together!
                   </p>
                   <div className="space-y-2">
                     <p>Proficiently wielding the following languages:</p>
